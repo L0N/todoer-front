@@ -1,6 +1,19 @@
 body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: darkcyan;
+}
+
+.container{
+  width: 80%;
+  min-width: 400px;
+  background-color: cyan;
+  height: calc(100vh - 135px);
+}
+
+.container h1{
+  text-align: center;
+  padding-top: 5px;
 }
 
 a {
